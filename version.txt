@@ -1,0 +1,5 @@
+NumPy: 1.26.4
+Pandas: 2.2.2
+Matplotlib: 3.9.2
+Seaborn: 0.13.2
+Scikit-learn: sklearn version: cluster
